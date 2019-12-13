@@ -1,6 +1,2 @@
-Thunderbird
-=====
-
-"Fork Thunderbird" to create a new MOOSE-based application.
-
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
+# Thunderbird
+A bioheat transfer equation implementation in INL's MOOSE framework
